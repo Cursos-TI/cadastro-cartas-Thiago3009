@@ -66,6 +66,15 @@ int main() {
   printf("PIB: %f\n",pib);
   printf("Número de Pontos Turísticos: %d\n", qtd_pontos_turisticos);
 
+  //imprimindo na tela dados da segunda carta
+  printf("Carta 2:\n");
+  printf("Estado: %c\n", estado2);
+  printf("Código: %s\n", codigo_carta2);
+  printf("Nome da Cidade: %s\n", cidade2);
+  printf("População: %d\n", n_populacao2);
+  printf("Área: %f\n", area_km2);
+  printf("PIB: %f\n",pib2);
+  printf("Número de Pontos Turísticos: %d\n", qtd_pontos_turisticos2);
 
   return 0;
 } 
